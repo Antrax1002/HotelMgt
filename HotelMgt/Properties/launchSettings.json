@@ -1,0 +1,16 @@
+﻿{
+  "profiles": {
+    "HotelMgt": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SMTP_HOST": "smtp.gmail.com",
+        "SMTP_PORT": "587",
+        "SMTP_ENABLESSL": "true",
+        "SMTP_USER": "hms.resevation.email@gmail.com",
+        "SMTP_PASS": "qvifljxquxaqvtbn",
+        "SMTP_FROM": "hms.resevation.email@gmail.com",
+        "SMTP_FROMNAME": "Golden Courtyard"
+      }
+    }
+  }
+}
